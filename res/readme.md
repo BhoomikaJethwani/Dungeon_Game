@@ -1,4 +1,4 @@
-**About/Overview **
+# About/Overview 
 The object of this project is to Build an Adventure Game GUI. 
 The world for our game consists of a dungeon, a
 network of tunnels and caves that are interconnected so that a player
@@ -6,13 +6,15 @@ can explore the entire world by traveling from cave to cave through the
 tunnels that connect them. The dungeon has monsters that can be slayed
 using arrows.
 
-List of features List of functionalities in the program are: Graphics
+## List of features 
+### List of functionalities in the program are: Graphics
 based UI for the game. Added monsters to the dungeon. Monsters can be
 slayed by the player. Player can collect arrows. Player has the. option
 to move / shoot / pick arrow or treasure. The player can move in the
 dungeon until it reaches the end. Thief can steal treasures.
 
-How To Run Instructions to run the program should include the following:
+## How To Run 
+### Instructions to run the program should include the following:
 Run Dungeon.jar in the IDE No arguments needed to run Jar File for the
 UI based Game Enter the No of Rows and Columns (Eg; 7,8,9..) Enter
 Wrapping values as (true/false) Enter Interconnectivity (7,8,9..) Enter
@@ -34,17 +36,21 @@ Dead Player roaming Layout of the Dungeon NOTE: Be sure to pay attention
 to the file format that we are looking for in your examples. Often, we
 will ask for example runs in plain text format so that you can provide
 pointers into them via the Handins self-evaluation.Design/Model Changes.
+
 The following design changes were made during the implementation of the
-project: 1. Thief and pit was added to the caves in dungeon. 2. Monster
-roaming were added to the dungeon. 3. GUI based version added.
-Assumptions. The following assumptions were made during the
+project: 
+1. Thief and pit was added to the caves in dungeon.
+2.  Monster roaming were added to the dungeon.
+3. GUI based version added.
+
+## Assumptions.
+The following assumptions were made during the
 implementation of the project: The game resets with the same game values
 but a new model designed for the dungeon with the same values.
-Limitations. Limitations of the program include the following: Player
-cannot view its location. Player doesn't know the start and end of the
-dungeon. 
-https://www.geeksforgeeks.org/iterating-arraylists-java/
-https://www.geeksforgeeks.org/how-objects-can-an-arraylist-hold-in-java/
-https://www.geeksforgeeks.org/map-interface-java-examples/
-https://stackoverflow.com/questions/4157972/how-to-update-a-value-given-a-key-in-a-hashmap
-https://java2blog.com/print-hashmap-in-java/
+
+## Limitations. 
+Limitations of the program include the following: 
+Player cannot view its location. 
+Player doesn't know the start and end of the dungeon. 
+
+
