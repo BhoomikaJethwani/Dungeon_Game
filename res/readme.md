@@ -1,5 +1,6 @@
-README.MD About/Overview The object of this project is to Build an
-Adventure Game GUI. The world for our game consists of a dungeon, a
+About/Overview 
+The object of this project is to Build an Adventure Game GUI. 
+The world for our game consists of a dungeon, a
 network of tunnels and caves that are interconnected so that a player
 can explore the entire world by traveling from cave to cave through the
 tunnels that connect them. The dungeon has monsters that can be slayed
@@ -41,11 +42,7 @@ implementation of the project: The game resets with the same game values
 but a new model designed for the dungeon with the same values.
 Limitations. Limitations of the program include the following: Player
 cannot view its location. Player doesn't know the start and end of the
-dungeon. Citations -
-https://www.c-sharpcorner.com/UploadFile/3614a6/is-a-and-has-a-relationship-in-java/
-https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
-https://stackoverflow.com/questions/3982550/creating-an-arraylist-of-objects/3982597
-https://techvidvan.com/tutorials/java-copy-constructor/
+dungeon. 
 https://www.geeksforgeeks.org/iterating-arraylists-java/
 https://www.geeksforgeeks.org/how-objects-can-an-arraylist-hold-in-java/
 https://www.geeksforgeeks.org/map-interface-java-examples/
