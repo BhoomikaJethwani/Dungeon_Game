@@ -1,4 +1,4 @@
-About/Overview 
+**About/Overview **
 The object of this project is to Build an Adventure Game GUI. 
 The world for our game consists of a dungeon, a
 network of tunnels and caves that are interconnected so that a player
